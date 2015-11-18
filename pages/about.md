@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About OCE
-permalink: /about/
+title: Services
+permalink: /Services/
 image: /assets/img/about.jpg
 ---
 ## About GSA
