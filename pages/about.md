@@ -4,14 +4,27 @@ title: Services
 permalink: /Services/
 image: /assets/img/about.jpg
 ---
+## Value
+
+Connect strategy to cost needs with private sector efficiency, but government empathy, expertise & appreciation\
+
+Diagnose & fix tactical "non-sexy" problems\
+
+Leverage the right technology to fix customer problems fast\
+
+Cheaper & quicker than hiring private sector\
+
+Tightly scoped\
+
+We GET government
+
 ## OCE Services
 
-GSA provides workplaces by constructing, managing, and preserving government buildings and by leasing and managing commercial real estate. GSA's acquisition solutions offer private sector professional services, equipment, supplies, telecommunications, and information technology to government organizations and the military. GSA policies promote management best practices and efficient government operations.
+**LIGHT TOUCH**\
+Have a problem that has been diagnosed but can't solve? Let us help. We leverage our experience and best practices from across government to help you solve your current dilemma. This of us as your internal consultants. \
 
-### Mission
+**MEDIUM TOUCH\
+**Think you have a problem but you are not sure? Or you just want to be proactive, let us help develop and test a few hypothesis's surrounding your customer's experience and work with your team to get to the bottom of the issue. \
 
-The mission of GSA is to deliver the best value in real estate, acquisition, and technology services to government and the American people.
-
-### History
-
-GSA was established by President Harry Truman on July 1, 1949, to streamline the administrative work of the federal government.  GSA consolidated the National Archives Establishment, the Federal Works Agency and its Public Buildings Administration, the Bureau of Federal Supply and the Office of Contract Settlement, and the War Assets Administration into one federal agency tasked with administering supplies and providing workplaces for federal employees
+**HEAVY TOUCH\
+**Can't figure out where to start? Let's talk. We are not afraid to get our hands dirty. 
