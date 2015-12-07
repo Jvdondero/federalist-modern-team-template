@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Thing
-permalink: /thing
+permalink: /thing/
 ---
 Does it blend?
