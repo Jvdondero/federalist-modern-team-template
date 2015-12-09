@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Services
-permalink: /Services/
+permalink: /services/
 image: /assets/img/about.jpg
 ---
 ## Value
@@ -27,4 +27,4 @@ Have a problem that has been diagnosed but can't solve? Let us help. We leverage
 **Think you have a problem but you are not sure? Or you just want to be proactive, let us help develop and test a few hypothesis's surrounding your customer's experience and work with your team to get to the bottom of the issue. \
 
 **HEAVY TOUCH\
-**Can't figure out where to start? Let's talk. We are not afraid to get our hands dirty. 
+**Can't figure out where to start? Let's talk. We are not afraid to get our hands dirty.

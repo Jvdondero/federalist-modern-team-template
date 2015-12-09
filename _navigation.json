@@ -1,16 +1,26 @@
 ---
 ---
 
+{% for z in site.collections %}
+  {% if z.label == 'documents' %}
+    {% assign pages = z.docs %}
+  {% endif %}
+{% endfor %}
+
+{% for p in pages %}
+{{ p.permalink }}
+{% endfor %}
+
 [
   {% for nav in site.data.navbar %}
   {
     "title": "{{ nav.name }}",
     "permalink": "{{ nav.permalink }}",
 
-    {% for page in site.pages %}
-
-      {% if nav.permalink == page.permalink %}
-       {% assign href = page.path %}
+    {% for p in pages %}
+      "hey": ["{{ nav.permalink }}", "{{ p.permalink }}"],
+      {% if nav.permalink == p.permalink %}
+       {% assign href = p.path %}
       {% endif %}
     {% endfor %}
     "href": "{{ href }}"
