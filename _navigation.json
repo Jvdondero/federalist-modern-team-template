@@ -7,10 +7,6 @@
   {% endif %}
 {% endfor %}
 
-{% for p in pages %}
-{{ p.permalink }}
-{% endfor %}
-
 [
   {% for nav in site.data.navbar %}
   {
@@ -18,7 +14,6 @@
     "permalink": "{{ nav.permalink }}",
 
     {% for p in pages %}
-      "hey": ["{{ nav.permalink }}", "{{ p.permalink }}"],
       {% if nav.permalink == p.permalink %}
        {% assign href = p.path %}
       {% endif %}
@@ -31,9 +26,9 @@
       {
         "title": "{{ child.name }}",
         "permalink": "{{ nav.permalink }}",
-        {% for p in site.pages %}
-          {% if child.permalink == p.permalink %}
-            {% assign childHref = p.path %}
+        {% for pp in pages %}
+          {% if child.permalink == pp.permalink %}
+            {% assign childHref = pp.path %}
           {% endif %}
         {% endfor %}
         "href": "{{ childHref }}"
@@ -45,6 +40,10 @@
 
   },
   {% endfor %}
+  {
+    "title": "Navigation menu",
+    "href": "_data/navbar.yml"
+  },
   {
     "title": "Project data",
     "href": "_data/projects.yml"
