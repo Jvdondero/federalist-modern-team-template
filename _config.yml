@@ -55,6 +55,9 @@ footer:
   text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. # Change to a tag line for your agency
 
 # Build settings
+collections:
+  documents:
+    output: true
 markdown: kramdown
 include:
   - _navigation.json
