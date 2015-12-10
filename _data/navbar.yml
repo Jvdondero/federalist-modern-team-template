@@ -1,1 +1,11 @@
-
+- name: About
+  permalink: '/services/'
+- name: Work
+  permalink: '/projects/'
+  children:
+    - name: 'Project 1'
+      permalink: '/projects/microloans-for-farmers/'
+    - name: 'Project 2'
+      permalink: '/projects/reducing-summer-melt/'
+    - name: 'Project 2'
+      permalink: '/projects/reducing-summer-melt/'
