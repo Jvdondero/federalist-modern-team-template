@@ -4,27 +4,26 @@ title: Services
 permalink: /services/
 image: /assets/img/about.jpg
 ---
-## Value
+## ABOUT
 
-Connect strategy to cost needs with private sector efficiency, but government empathy, expertise & appreciation\
+GSA is the first federal agency to hire a Chief Customer Officer, with a mission to transform our organization into a customer-centric powerhouse of service and efficiency, and help program offices deliver an outstanding experience to our employees, partners, and customers.
 
-Diagnose & fix tactical "non-sexy" problems\
+The public expects the same level of service from government that they’d get from any private sector organization at scale. Recognizing this, GSA’s Office of Customer Experience is tasked to embed customer-centric thinking into our daily operations and ensure we deliver sound products, as well as great customer experiences. We aim to lead by example, and work with other federal agencies to instill a customer-first mindset across the entire federal government.\
 
-Leverage the right technology to fix customer problems fast\
+**MISSION STATEMENT**
 
-Cheaper & quicker than hiring private sector\
+By putting customers at the core of our business, we will give customers a voice at the table, and motivate business lines to work together toward common, customer-centric outcomes.
 
-Tightly scoped\
+**VALUE PROPOSITION**
 
-We GET government
+* Connect strategy to cost needs with private sector efficiency, but government empathy, expertise & appreciation
 
-## OCE Services
+* Diagnose & fix tactical "non-sexy" problems
 
-**LIGHT TOUCH**\
-Have a problem that has been diagnosed but can't solve? Let us help. We leverage our experience and best practices from across government to help you solve your current dilemma. This of us as your internal consultants. \
+* Leverage the right technology to fix customer problems fast
 
-**MEDIUM TOUCH\
-**Think you have a problem but you are not sure? Or you just want to be proactive, let us help develop and test a few hypothesis's surrounding your customer's experience and work with your team to get to the bottom of the issue. \
+* Cheaper & quicker than hiring private sector
 
-**HEAVY TOUCH\
-**Can't figure out where to start? Let's talk. We are not afraid to get our hands dirty.
+* Tightly scoped
+
+* We GET government
