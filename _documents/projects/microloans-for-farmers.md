@@ -1,23 +1,45 @@
 ---
 layout: project
-title: Microloans for Farmers
+title: VOICE OF THE EMPLOYEE: New Employee Onboarding
 permalink: /projects/microloans-for-farmers/
 tags: project
 image: /assets/img/project-images/microloans-for-farmers.jpg
 image-credit: https://www.flickr.com/photos/usdagov
 abstract: /assets/files/microloans-for-farmers.pdf
 ---
-## What is the issue?
+## VOICE OF THE EMPLOYEE: New Employee Onboarding
 
-Many farms in the United States, including smaller and newer enterprises, do not have access to the credit they need to build and sustain their operations. To fulfill this need, the Farm Service Agency (FSA) at the United States Department of Agriculture (USDA) provides small amounts of credit to qualified borrowers who have been unable to obtain farm credit from commercial lenders. This extension of credit might be especially helpful for new farmers, or farmers who are establishing operations such as urban farms that are not served by the commercial lending industry. Farms like these often lack the type of business records necessary to qualify for commercial loans, creating a catch-22 situation that makes it difficult to build new businesses. Microloans are a particular type of loan offered by FSA that helps to fulfill the needs of businesses like these.
+### The Challenge
 
-## What is the insight?
+Early in 2015, the Office of Customer Experience partnered with GSA's Office of Human Resources to get a better understanding of the current employee onboarding process. In doing so, we set out to identify opportunities for improvement, reveal potential integration points with key stakeholders, and increase transparency for new hires.
 
-In order to provide credit to a broad array of agricultural entrepreneurs, especially those who might be new to farming and who might not participate in other USDA programs, it is critical to widely share information about the availability of microloans.  This information must be concise and targeted, providing individuals with clear action steps that they can take to learn more about, and potentially apply for, loans from FSA.
+### What We Did
 
-## What was the intervention?
+In order to get an end-to-end picture of the current onboarding experience, we created a series of journey maps based on feedback from recent hires. A journey map takes in a bunch of user data (in this case, satisfaction levels at eight different stages of the onboarding process) and turns it into a generalized emotional curve. What this allows us to do is identify low points or inflections in that curve as key areas for improvement. In this case, our customer data came from a series of sessions…
 
-A new outreach letter was mailed to randomly selected zip codes. It provided information on the benefits of the microloan program, a shortened URL for accessing more information online, and customized contact information directing each farmer to the loan officer in his or her home county.  A broad sampling of farmers received the letter, including individuals who had not previously participated in USDA programs or been a customer of FSA.
+ ![]({{ site.baseurl }}/)
 
-## What was the impact?
-The letters more than doubled the amount of microloan-related activity in FSA county offices, introducing the microloan program widely to farmers who might benefit.  The letter also influenced the number of successful applicants, increasing the percentage from approximately 0.09 percent to 0.11 percent.
+### What We Learned
+
+Overall, we found that inconsistencies, delays, and a lack of transparency in the onboarding process are resulting in negative experiences that impact new employees’ ability to effectively transition into their new positions. In particular, we focused in on three moments in the onboarding journey: the offer process, the security process, and the waiting period.
+
+### Recommendations
+
+Focusing on these key moments, we came up with a few recommendations for improving the employee onboarding experience in the near term. We suggested...
+
+* Incorporating a description of the security process into the onboarding conversation to set clear expectations
+
+* Dedicating a backup point of contact for hiring manager because we heard from many employees that their point of contact was out of the office and unaccessible
+
+* Creating a system for delivering on boarding info to new employees as it is relevant over the first 45 days to avoid overwhelming people when they start
+
+In addition to suggesting these specific improvements, we developed eight different surveys for new employees so we can continue gathering data that will drive future refinements to the onboarding process. These surveys are delivered to new employees at 30 days, 60 days, 90 days, 180 days, 1 year, 1.5 years, and 2 years after starting, then also upon exit. An important recommendation for these surveys is that the questions are updated on an ongoing basis to ensure we are getting feedback that is relevant and actionable.
+
+\
+
+### Outcomes
+
+The new employee surveys are already delivering valuable data on the onboarding process through identifying various training opportunities new employees would appreciate. 
+
+\
+Onboarding new employees is a shared responsibility - as supervisors, you play an important role in implementing these changes. Keep an eye out for new surveys, added messaging, and process enhancements, and let us know what is working well and what could be improved upon.
